@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.4dbee78f.css","mappings":"AAAA,EACE,QAAQ,CACR,SACF,CAEA,mBAEE,qBAAsB,CADtB,YAEF","sources":["index.css"],"sourcesContent":["*{\n  margin:0;\n  padding:0;\n}\n\n.pricing-container{\n  padding:10px;\n  border:1px solid black;\n}"],"names":[],"sourceRoot":""}

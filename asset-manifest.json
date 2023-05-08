@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/NoteZ-Complete/static/css/main.4dbee78f.css",
+    "main.js": "/NoteZ-Complete/static/js/main.882e8720.js",
+    "index.html": "/NoteZ-Complete/index.html",
+    "main.4dbee78f.css.map": "/NoteZ-Complete/static/css/main.4dbee78f.css.map",
+    "main.882e8720.js.map": "/NoteZ-Complete/static/js/main.882e8720.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4dbee78f.css",
+    "static/js/main.882e8720.js"
+  ]
+}
